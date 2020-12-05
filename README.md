@@ -1,3 +1,3 @@
 # Hi there 👋
 
-## I’m currently working on LTU [re]boot course.
+## I’m a happy camper on freeCodeCamp.org 🏕
