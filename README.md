@@ -1,6 +1,10 @@
 # Hi there 👋
 
-## I’m a happy camper on <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp.org</a> 🏕
+## Aspiring Software Developer looking for Software Developer opportunities to gain hands-on experience to design and build solutions.
+
+I am currently self-learning several programming languages, including HTML, CSS, JavaScript and Python. I do, however, recognise the invaluable benefits of on the job training and I am keen to connect and work with industry experts to develop both technical and professional skills.
+
+Please do not hesitate to contact me for an informal chat!
 
 <a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img height="64" alt="HTML5 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png"></a>&nbsp;&nbsp;
 <a title="Rudloff, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg"><img height="64" alt="CSS3 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png"></a>&nbsp;&nbsp;
