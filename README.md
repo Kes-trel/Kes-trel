@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Aspiring Software Developer looking for Software Developer opportunities to gain hands-on experience to design and build solutions.
+## Aspiring Software Developer looking for opportunities to gain hands-on experience to design and build solutions.
 
 I am currently self-learning several programming languages, including HTML, CSS, JavaScript and Python. I do, however, recognise the invaluable benefits of on the job training and I am keen to connect and work with industry experts to develop both technical and professional skills.
 
