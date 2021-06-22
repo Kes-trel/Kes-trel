@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Enthusiast
 
 Having worked for over a decade in the UK’s water industry as a civil engineer I gained significant experience in a variety of interesting and challenging projects where problem solving was required.
 
